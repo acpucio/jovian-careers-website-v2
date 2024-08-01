@@ -7,6 +7,8 @@ authors = ["aakashns <<>>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 Flask = "^2.1.2"
+sqlalchemy = "^2.0.31"
+django-text = "^1.7.6"
 
 [tool.poetry.dev-dependencies]
 
